@@ -35,7 +35,7 @@ if "gastos" not in st.session_state:
 
 # --- BARRA MENU ---
 with st.sidebar:
-    st.image("https://media.discordapp.net/attachments/1301396281385811979/1419894154598813758/Diseno_sin_titulo_6.png?ex=68d75f7a&is=68d60dfa&hm=b8f834fd794c491394bf0386f16a5581b8814c930b2f60667f065fdbb25208fb&=&format=webp&quality=lossless")
+    st.image("https://media.discordapp.net/attachments/1301396281385811979/1419894154598813758/Diseno_sin_titulo_6.png?ex=68dca57a&is=68db53fa&hm=2fcfdcc0f73b3a74be4ad81c7a4744a7bad04847fcdc5669afd3f0d6897bb1ba&=&format=webp&quality=lossless")
     st.divider()
     st.header("Menú")
     page = st.radio(
